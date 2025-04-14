@@ -1,6 +1,6 @@
-# PyChatGO - Real-time Chat Application
+# GoPyChat - Real-time Chat Application
 
-PyChatGo is a modern, real-time chat application built with FastAPI for the backend and React with Material-UI for the frontend.
+GoPyChat is a modern, real-time chat application built with FastAPI for the backend and React with Material-UI for the frontend.
 
 ## Features
 
