@@ -52,7 +52,7 @@ gochat/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gochat.git
+   git clone https://github.com/faust-lvii/gochat.git
    cd gochat
    ```
 
